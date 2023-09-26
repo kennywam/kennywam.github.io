@@ -11,8 +11,8 @@ const config = {
     },
   },
   social: {
-    linkedin: 'Kennedy wambua',
-    twitter: 'kenbit',
+    linkedin: 'Kennedy-wambua-4623841ba',
+    twitter: 'kennedy_kenbit',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
@@ -20,7 +20,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'kenbit',
-    stackoverflow: 'Kennedy Wambua', // example: '1/jeff-atwood'
+    stackoverflow: 'Kennedy-Wambua', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://kennywam.github.io',
