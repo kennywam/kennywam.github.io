@@ -64,7 +64,7 @@ const config = {
   education: [
     {
       institution: 'Maseno University',
-      degree: 'Barchelor degree(Computer Science)',
+      degree: "Barchelor 's degree(Computer Science)",
       from: '2019',
       to: '2023',
     },
