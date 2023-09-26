@@ -49,15 +49,15 @@ const config = {
     {
       company: 'Airtel Kenya',
       position: 'Junior Software developer',
-      from: 'June 2023',
+      from: 'May 2023',
       to: 'Present',
       companyLink: 'https://www.airtelkenya.com',
     },
     {
       company: 'Alternate ltd',
       position: 'Software developer intern',
-      from: 'July 2022',
-      to: 'September 2022',
+      from: 'April 2022',
+      to: 'October 2022',
       companyLink: 'https://example.com',
     },
   ],
