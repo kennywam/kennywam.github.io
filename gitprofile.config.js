@@ -18,13 +18,13 @@ const config = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    medium: 'kenbit',
+    dev: 'kenbit',
+    stackoverflow: 'Kennedy Wambua', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://kennywam.github.io',
-    phone: '',
+    phone: '0746634420',
     email: 'kennywambu254@gmail.com',
   },
   resume: {
