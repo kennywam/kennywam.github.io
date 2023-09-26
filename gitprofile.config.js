@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://github.com/kennywam/kennywam.github.io/blob/main/public/Resume.pdf',
+      'https://drive.google.com/file/d/1sxyn-_VcJzv91qPT1H85DirLrMv17oLf/view',
   },
   skills: [
     'C#',
