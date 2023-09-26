@@ -20,7 +20,7 @@ const config = {
     behance: '',
     medium: '',
     dev: 'kenbit',
-    stackoverflow: 'Kennedy-Wambua', // example: '1/jeff-atwood'
+    stackoverflow: '13954216/kennedy-wambua', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
     website: 'https://kennywam.github.io',
