@@ -29,7 +29,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1sxyn-_VcJzv91qPT1H85DirLrMv17oLf/view',
+      'https://drive.google.com/file/d/1pcHc-Y0Vj3qSO4smD9TJrRDHt0GCivHo/view?usp=drive_link',
   },
   skills: [
     'C#',
