@@ -106,13 +106,6 @@ const CONFIG = {
     },
     {
       company: 'Airtel Kenya',
-      position: 'Software developer intern',
-      from: 'November 2022',
-      to: 'December 2022',
-      companyLink: 'https://www.airtelkenya.com',
-    },
-    {
-      company: 'Airtel Kenya',
       position: 'Software developer',
       from: 'January 2023',
       to: 'February 2024',
@@ -120,7 +113,7 @@ const CONFIG = {
     },
     {
       company: 'Alternate ltd',
-      position: 'Software developer intern',
+      position: 'Software developer',
       from: 'April 2022',
       to: 'May 2023',
       companyLink: 'https://altn8.co.ke',
