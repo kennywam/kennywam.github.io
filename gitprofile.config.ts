@@ -29,26 +29,33 @@ const CONFIG = {
       },
     },
     external: {
-      // header: 'My Projects',
-      // // To hide the `External Projects` section, keep it empty.
-      // projects: [
-      //   {
-      //     title: 'Project Name',
-      //     description:
-      //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      //     imageUrl:
-      //       'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-      //     link: 'https://example.com',
-      //   },
-      //   {
-      //     title: 'Project Name',
-      //     description:
-      //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      //     imageUrl:
-      //       'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-      //     link: 'https://example.com',
-      //   },
-      // ],
+      header: 'My Projects',
+      projects: [
+        {
+          title: 'Permission-Sync-Tool',
+          description:
+            'A simple CLI tool to sync permissions in the database with the permissions defined in the codebase.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://www.npmjs.com/package/permission-sync-tool',
+        },
+        {
+          title: 'Sherlock',
+          description:
+            'A web application that helps you remember and manage your projects context and mental processes after interruptions.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: 'https://github.com/kennywam/sherlock',
+        },
+        {
+          title: 'Nobel App',
+          description:
+            'A healthcare application that allows users to book appointments with doctors, view their medical history, and manage their health records.',
+          imageUrl:
+            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          link: '',
+        },
+      ],
     },
   },
   seo: {
